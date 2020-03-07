@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.fontFamily": "ProggyCleanTT",
+    "editor.fontFamily": "'Fixedsys Excelsior 3.01', Monaco, ProFontWindows, Consolas, 'Courier New'",
+    "terminal.integrated.fontWeight": "300",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#25236D",
+        "titleBar.activeBackground": "#343198",
+        "titleBar.activeForeground": "#FBFBFE"
+    }
+}

@@ -1,0 +1,9 @@
+" The clipboard has been set with 3 text elements.
+	This is the first chunk stored in clipboard
+"!
+" The clipboard has been set with 3 text elements.
+	This is the second chunk stored in clipboard
+"!
+" The clipboard has been set with 3 text elements.
+	This is the third chunk stored in clipboard
+"

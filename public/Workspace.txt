@@ -1,0 +1,7 @@
+" If you are reading this text is because the Workspace.txt file has passed the test.
+The remaining text is a suggested expression to continue testing.
+
+Use the [<] and [>] buttons to see if clipboard has been set from Clipboard.txt file.
+"
+
+
